@@ -26,8 +26,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Lokesh-DataScience/oibsip_2.git
-    cd oibsip_2
+    git clone https://github.com/Lokesh-DataScience/UNEMPLOYMENT_ANALYSIS_WITH_PYTHON.git
+    cd UNEMPLOYMENT_ANALYSIS_WITH_PYTHON
     ```
 
 2. Install the required Python libraries:
